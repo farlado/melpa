@@ -1,3 +1,4 @@
+
 (magit :fetcher github
        :repo "magit/magit"
        :files ("lisp/magit"
